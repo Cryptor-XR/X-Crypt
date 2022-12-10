@@ -6,6 +6,10 @@ apt update
 apt upgrade 
 
 pkg install git
+
+pkg install python3
+
+
 # required system
 Android
 Windows
