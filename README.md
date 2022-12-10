@@ -16,4 +16,8 @@ cd X-Crypt
 python3 X-Crypt.py
 # required system
 Android
+
 Windows
+# Condition
+Connected
+# Implementation guide
