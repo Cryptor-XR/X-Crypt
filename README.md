@@ -20,5 +20,9 @@ Android(No need to root)
 Windows
 # Condition
 Connected
-# Implementation guide
-No need for special explanations
+# ⚠️Pay attention⚠️
+You will be asked when running the script!
+
+Do you want to install packages? (y/n)
+
+If you have not installed the required packages, type y option so that all packages are installed automatically, and if you have installed the packages, type n option.
