@@ -15,9 +15,10 @@ cd X-Crypt
 
 python3 X-Crypt.py
 # required system
-Android
+Android(No need to root)
 
 Windows
 # Condition
 Connected
 # Implementation guide
+No need for special explanations
