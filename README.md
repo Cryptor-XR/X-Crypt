@@ -29,3 +29,6 @@ If you have not installed the required packages, type y option so that all packa
 
 # The creator of X-Crypt
 X-Crypt by Cryptor-XR
+# disclaimer
+" Any unauthorized use of X-Crypt is at your own risk and Cryptor-XR does not accept any responsibility for this script. "
+* Okey *
