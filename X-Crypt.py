@@ -1,1 +1,4 @@
-print("Hello world")
+import os
+
+os.system("clear")
+print("hey!")
