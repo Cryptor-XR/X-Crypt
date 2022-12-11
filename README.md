@@ -1,19 +1,19 @@
 # X-Crypt
 Run X-Crypt in your system with the help of Termux or Linux for free
 # Required commands
-apt update 
+* apt update 
 
-apt upgrade 
+* apt upgrade 
 
-pkg install git
+* pkg install git
 
-pkg install python3
+* pkg install python3
 
-git clone https://github.com/cryptor-xr/X-Crypt.py
+* git clone https://github.com/cryptor-xr/X-Crypt.py
 
-cd X-Crypt
+* cd X-Crypt
 
-python3 X-Crypt.py
+* python3 X-Crypt.py
 # required system
 Android(No need to root)
 
@@ -31,4 +31,9 @@ If you have not installed the required packages, type y option so that all packa
 X-Crypt by Cryptor-XR
 # disclaimer
 " Any unauthorized use of X-Crypt is at your own risk and Cryptor-XR does not accept any responsibility for this script. "
-* Okey *
+Any unauthorized use of X-Crypt is at your own risk and Cryptor-XR does not accept any responsibility for this script.
+
+
+
+
+BBIAB 
